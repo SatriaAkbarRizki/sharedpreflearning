@@ -1,3 +1,3 @@
 # sharedprefer
 
-A new Flutter project.
+A old Flutter project use for learning shared preference
